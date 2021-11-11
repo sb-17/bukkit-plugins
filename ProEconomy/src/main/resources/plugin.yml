@@ -1,0 +1,14 @@
+name: ProEconomy
+main: io.github.siminoo.proeconomy.ProEconomy
+version: 1
+author: Siminoo
+commands:
+    pe:
+      description: pe
+      usage: /pe
+    peadmin:
+      description: peadmin
+      usage: /peadmin
+    status:
+      description: money status
+      usage: /status

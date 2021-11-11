@@ -1,0 +1,11 @@
+name: Survival
+main: io.github.siminoo.survival.Survival
+version: 1
+author: Siminoo
+commands:
+    shop:
+      description: shop
+      usage: /shop
+    setsurvivalworld:
+      description: survival world
+      usage: /setsurvivalworld

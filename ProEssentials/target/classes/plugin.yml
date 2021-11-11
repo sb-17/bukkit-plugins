@@ -1,0 +1,20 @@
+name: ProEssentials
+main: io.github.siminoo.proessentials.ProEssentials
+version: 1
+author: Siminoo
+commands:
+    gmc:
+      description: gamemode creative
+      usage: /gmc
+    gmsv:
+      description: gamemode survival
+      usage: /gmsv
+    gma:
+      description: gamemode adventure
+      usage: /gma
+    gmsp:
+      description: gamemode spectator
+      usage: /gmsp
+    add:
+      description: add
+      usage: /add player name

@@ -1,0 +1,10 @@
+name: Immunity
+main: io.github.siminoo.immunity.Immunity
+version: 1
+author: Siminoo
+commands:
+    kill:
+      description: Immune players mode
+      usage: /kill [player]
+      permission: 
+      permission-message: 

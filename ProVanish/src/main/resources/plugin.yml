@@ -1,0 +1,11 @@
+name: ProVanish
+main: io.github.siminoo.provanish.ProVanish
+version: 1
+author: Siminoo
+commands:
+    v:
+      description: toggles vanish mode
+      usage: /v
+    vanish:
+      description: toggles vanish mode
+      usage: /vanish

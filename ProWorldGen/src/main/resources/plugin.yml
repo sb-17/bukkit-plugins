@@ -1,0 +1,8 @@
+name: ProWorldGen
+main: io.github.siminoo.proworldgen.ProWorldGen
+version: 1
+author: Siminoo
+commands:
+    wg:
+      description: World Gen
+      usage: /wg

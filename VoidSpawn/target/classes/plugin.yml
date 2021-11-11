@@ -1,0 +1,8 @@
+name: VoidSpawn
+main: io.github.siminoo.voidspawn.VoidSpawn
+version: 1
+author: Siminoo
+commands:
+    vs:
+      description: voidspawn
+      usage: /vs

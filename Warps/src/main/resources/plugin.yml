@@ -1,0 +1,20 @@
+name: Warps
+main: io.github.siminoo.warps.Warps
+version: 2
+author: Siminoo
+commands:
+    setwarp:
+      description: New warp
+      usage: /setwarp [name]
+      permission:
+      permission-message:
+    delwarp:
+      description: Delete warp
+      usage: /delwarp [name]
+      permission:
+      permission-message:
+    warp:
+      description: Warps to warp
+      usage: /warp [name]
+      permission:
+      permission-message:

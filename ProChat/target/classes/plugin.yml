@@ -1,0 +1,14 @@
+name: ProChat
+main: io.github.siminoo.prochat.ProChat
+version: 1
+author: Siminoo
+commands:
+    pch:
+      description: Manage chat
+      usage: /pch
+    a:
+      description: Admin chat
+      usage: /a [Message]
+    m:
+      description: Muted chat
+      usage: /m [Message]

@@ -1,0 +1,10 @@
+name: Fly
+main: io.github.siminoo.fly.Fly
+version: 1
+author: Siminoo
+commands:
+    fly:
+      description: Toggles fly
+      usage: /fly [player]
+      permission: 
+      permission-message: 

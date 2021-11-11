@@ -1,0 +1,11 @@
+name: ProCustomChats
+main: io.github.siminoo.procustomchats.ProCustomChats
+version: 1
+author: Siminoo
+commands:
+    pcccreate:
+      description: pcccreate
+      usage: /pcccreate [name]
+    pccremove:
+      description: pccremove
+      usage: /pccremove [name]

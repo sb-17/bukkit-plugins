@@ -1,0 +1,10 @@
+name: Bedwars
+main: io.github.siminoo.bedwars.Bedwars
+version: 1
+author: Siminoo
+commands:
+    bw:
+      description: bw commands
+      usage: /bw
+      permission:
+      permission-message:

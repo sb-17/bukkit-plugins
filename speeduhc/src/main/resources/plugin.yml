@@ -1,0 +1,10 @@
+name: SpeedUHC
+main: io.github.siminoo.speeduhc.speeduhc
+version: 1
+author: Siminoo
+commands:
+    speeduhc:
+      description: Automated SpeedUHC, up to 10 players!
+      usage: /speeduhc [create], /speeduhc [setpos[1-10]]
+      permission:
+      permission-message:

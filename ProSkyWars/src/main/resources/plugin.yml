@@ -1,0 +1,9 @@
+name: ProSkyWars
+main: io.github.siminoo.proskywars.ProSkyWars
+version: 1
+author: Siminoo
+commands:
+    psw:
+      description: ProSkyWars
+      usage: /psw
+    

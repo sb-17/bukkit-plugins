@@ -1,0 +1,8 @@
+name: ProNickname
+main: io.github.siminoo.pronickname.ProNick
+version: 1
+author: Siminoo
+commands:
+    pn:
+      description: pn
+      usage: /pn

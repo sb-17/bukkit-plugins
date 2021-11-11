@@ -1,0 +1,8 @@
+name: ProKitPvP
+main: io.github.siminoo.prokp.ProKP
+version: 1
+author: Siminoo
+commands:
+    kp:
+      description: kp
+      usage: /kp

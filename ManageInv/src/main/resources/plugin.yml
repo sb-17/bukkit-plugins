@@ -1,0 +1,10 @@
+name: ManageInv
+main: io.github.siminoo.manageinv.ManageInv
+version: 1
+author: Siminoo
+commands:
+    mnginv:
+      description: Allows manage player's inventory
+      usage: /mnginv [name]
+      permission:
+      permission-message:

@@ -1,0 +1,8 @@
+name: ProVoidWorld
+main: io.github.siminoo.provoidworld.VoidWorld
+version: 1
+author: Siminoo
+commands:
+    vwcreate:
+      description: voidworld create
+      usage: /vwcreate [name]

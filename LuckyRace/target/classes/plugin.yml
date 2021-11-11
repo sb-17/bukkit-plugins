@@ -1,0 +1,8 @@
+name: LuckyRace
+main: io.github.siminoo.luckyrace.LuckyRace
+version: 1
+author: Siminoo
+commands:
+    :
+      description: 
+      usage: /

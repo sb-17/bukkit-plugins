@@ -1,0 +1,50 @@
+name: Theory_Of_Everything
+main: io.github.siminoo.theoryofeverything.TheoryOfEverything
+version: 1
+author: Siminoo
+commands:
+    mnginv:
+      description: manage player's inventory
+      usage: /mnginv [playername]
+      permission:
+      permission-message:
+    setlobby:
+      description: setlobby
+      usage: /setlobby
+      permission:
+      permission-message:
+    lobby:
+      description: teleport to lobby
+      usage: /lobby
+      permission:
+      permission-message:
+    kill:
+      description: Immune players mode
+      usage: /kill [player]
+      permission: 
+      permission-message: 
+    fly:
+      description: Toggles fly
+      usage: /fly [player]
+      permission: 
+      permission-message: 
+    setwarp:
+      description: New warp
+      usage: /setwarp [name]
+      permission:
+      permission-message:
+    delwarp:
+      description: Delete warp
+      usage: /delwarp [name]
+      permission:
+      permission-message:
+    warp:
+      description: Warps to warp
+      usage: /warp [name]
+      permission:
+      permission-message:
+    afk:
+      description: Toggles afk mode
+      usage: /afk [on/off]
+      permission: 
+      permission-message: 

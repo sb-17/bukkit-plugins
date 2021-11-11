@@ -1,0 +1,8 @@
+name: ProSlots
+main: io.github.siminoo.proslots.proslots
+version: 1
+author: Siminoo
+commands:
+    setslots:
+      description: change slots
+      usage: /setslots [slots]

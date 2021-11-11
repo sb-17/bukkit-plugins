@@ -1,0 +1,8 @@
+name: ProPlayerHeads
+main: io.github.siminoo.proplayerheads.ProPlayerHeads
+version: 1
+author: Siminoo
+commands:
+    pph:
+      description: player heads
+      usage: /pph [player]

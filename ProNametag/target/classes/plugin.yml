@@ -1,0 +1,8 @@
+name: ProNametag
+main: io.github.siminoo.pronametag.ProNametag
+version: 1
+author: Siminoo
+commands:
+    nt:
+      description: nt
+      usage: /nt

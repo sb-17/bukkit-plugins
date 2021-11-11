@@ -1,0 +1,67 @@
+name: Lobby
+main: io.github.siminoo.lobby.Lobby
+version: 1
+author: Siminoo
+commands:
+    setlobby:
+      description: setlobby
+      usage: /setlobby
+      permission:
+      permission-message:
+    spawn:
+      description: teleport to lobby
+      usage: /spawn
+      permission:
+      permission-message:
+    lobby:
+      description: teleport to lobby
+      usage: /lobby
+      permission:
+      permission-message:
+    hub:
+      description: teleport to lobby
+      usage: /hub
+      permission:
+      permission-message:
+    addmoney:
+      description: add money
+      usage: /addmoney [amount] [target]
+    sendmoney:
+      description: send money
+      usage: /sendmoney [amount] [target]
+    money:
+      description: show money count
+      usage: /money
+    removemoney:
+      description: remove money
+      usage: /removemoney [amount] [target]
+    kick:
+      description: kick player
+      usage: /kick [player] [reason]
+    ban:
+      description: ban player
+      usage: /ban [player] [hours] [reason]
+    permaban:
+      description: permaban player
+      usage: /permaban [player] [reason]
+    myworld:
+      description: myworld
+      usage: /myworld
+    freeze:
+      description: freeze
+      usage: /freeze [player]
+    unfreeze:
+      description: unfreeze
+      usage: /unfreeze [player]
+    v:
+      description: vanish
+      usage: /v
+    vanish:
+      description: vanish
+      usage: /vanish
+    wg:
+      description: World Gen
+      usage: /wg
+    fly:
+      description: fly
+      usage: /fly

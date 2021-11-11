@@ -1,0 +1,5 @@
+name: ProSurvivalGames
+main: io.github.siminoo.prosg.SurvivalGames
+version: 1
+author: Siminoo
+commands:

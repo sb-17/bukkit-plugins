@@ -1,0 +1,10 @@
+name: Duels
+main: io.github.siminoo.duels.Duels
+version: 1
+author: Siminoo
+commands:
+    duels:
+      description: duels manage
+      usage: /duels [create/setpos1/setpos2/lobby/setlobby]
+      permission:
+      permission-message:

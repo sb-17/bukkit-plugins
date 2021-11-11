@@ -1,0 +1,8 @@
+name: Nametag
+main: io.github.siminoo.nametag.Main
+version: 1
+author: Siminoo
+commands:
+    hp:
+      description: hp on/off
+      usage: /hp

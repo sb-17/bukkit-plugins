@@ -1,0 +1,6 @@
+name: ProVIP
+main: io.github.siminoo.provip.ProVIP
+version: 1
+author: Siminoo
+commands:
+    

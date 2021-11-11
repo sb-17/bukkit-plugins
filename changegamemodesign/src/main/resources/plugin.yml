@@ -1,0 +1,5 @@
+name: changegamemodesign
+main: io.github.siminoo.changegamemodesign.changegamemodesign
+version: 2
+author: Siminoo
+commands:

@@ -1,0 +1,5 @@
+name: ProTablist
+main: io.github.siminoo.protablist.ProTablist
+version: 1
+author: Siminoo
+commands:

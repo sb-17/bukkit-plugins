@@ -1,0 +1,8 @@
+name: ProPrefix
+main: io.github.siminoo.proprefix.ProPrefix
+version: 1
+author: Siminoo
+commands:
+    prefix:
+      description: set prefix
+      usage: /prefix [prefix] [player]

@@ -1,0 +1,10 @@
+name: unscramble
+main: io.github.siminoo.unscramble.unscramble
+version: 1
+author: Siminoo
+commands:
+    protect:
+      description: protects your server
+      usage: /protect
+      permission:
+      permission-message:

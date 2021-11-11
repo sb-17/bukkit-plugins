@@ -1,0 +1,8 @@
+name: ProAntiCheat
+main: io.github.siminoo.ac.ProAC
+version: 1
+author: Siminoo
+commands:
+    vl:
+      description: remove or ad VL
+      usage: /vl [player] [add/remove] [number]

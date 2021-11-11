@@ -1,0 +1,8 @@
+name: UHCRun
+main: io.github.siminoo.uhcrun.uhcrun
+version: 1
+author: Siminoo
+commands:
+    uhcrun:
+      description: uhcrun
+      usage: /uhcrun

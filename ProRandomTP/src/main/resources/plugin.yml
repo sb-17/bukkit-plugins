@@ -1,0 +1,5 @@
+name: ProRandomTP
+main: io.github.siminoo.prorandomtp.ProRandomTP
+version: 1
+author: Siminoo
+commands:

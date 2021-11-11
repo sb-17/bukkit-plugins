@@ -1,0 +1,10 @@
+name: AFK
+main: io.github.siminoo.afk.AFK
+version: 1
+author: Siminoo
+commands:
+    afk:
+      description: Toggles afk mode
+      usage: /afk [on/off]
+      permission: 
+      permission-message:
